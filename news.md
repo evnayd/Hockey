@@ -1,6 +1,15 @@
 ---
 layout: news
 news:
+- title: First news
+  image: "/uploads/screen-shot-2021-01-11-at-82544-am.png"
+  text: Text text text2
+- title: Second news
+  image: "/uploads/screen-shot-2021-01-11-at-82544-am.png"
+  text: fhdndgdbsbsssaa
+- title: Third
+  image: "/uploads/screen-shot-2021-01-11-at-82544-am.png"
+  text: fndhdbsbstaga vvaaa
 - title: Fourth
   image: "/uploads/shouldmykidbeplayingup.jpeg"
   text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -11,14 +20,5 @@ news:
     the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
     and more recently with desktop publishing software like Aldus PageMaker including
     versions of Lorem Ipsum
-- title: Third
-  image: "/uploads/screen-shot-2021-01-11-at-82544-am.png"
-  text: fndhdbsbstaga vvaaa
-- title: Second news
-  image: "/uploads/screen-shot-2021-01-11-at-82544-am.png"
-  text: fhdndgdbsbsssaa
-- title: First news
-  image: "/uploads/screen-shot-2021-01-11-at-82544-am.png"
-  text: Text text text2
 
 ---
