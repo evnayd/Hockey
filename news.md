@@ -1,6 +1,9 @@
 ---
 layout: news
 news:
+- title: Third
+  image: "/uploads/1157472962.jpeg"
+  text: fndhdbsbstaga vvaaa
 - title: Second news
   image: "/uploads/1007334362.jpeg"
   text: fhdndgdbsbsssaa
