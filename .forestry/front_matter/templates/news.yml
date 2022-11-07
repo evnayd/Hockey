@@ -5,3 +5,10 @@ fields:
 - type: text
   name: layout
   label: layout
+- name: news
+  type: field_group_list
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: news
