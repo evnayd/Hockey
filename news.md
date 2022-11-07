@@ -11,7 +11,7 @@ news:
   image: "/uploads/screen-shot-2021-01-11-at-82544-am.png"
   text: fhdndgdbsbsssaa
 - title: First news
-  image: "/uploads/62970426.jpeg"
+  image: "/uploads/screen-shot-2021-01-11-at-82544-am.png"
   text: Text text text2
 
 ---
