@@ -5,7 +5,7 @@ news:
   image: "/uploads/shouldmykidbeplayingup.jpeg"
   text: fhdndhsbsbs55666
 - title: Third
-  image: "/uploads/1157472962.jpeg"
+  image: "/uploads/screen-shot-2021-01-11-at-82544-am.png"
   text: fndhdbsbstaga vvaaa
 - title: Second news
   image: "/uploads/1007334362.jpeg"
