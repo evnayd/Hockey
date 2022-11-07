@@ -5,6 +5,8 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: news
 - name: news
   type: field_group_list
   config:
