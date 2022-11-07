@@ -1,6 +1,9 @@
 ---
 layout: news
 news:
+- title: Fourth
+  image: "/uploads/shouldmykidbeplayingup.jpeg"
+  text: fhdndhsbsbs55666
 - title: Third
   image: "/uploads/1157472962.jpeg"
   text: fndhdbsbstaga vvaaa
