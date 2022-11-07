@@ -8,26 +8,13 @@
         <h1>
         </div>
             <div class="news-container">
+                {% for news in page.news %}
                 <div class="news-item">
-                    <h2>News 1</h2>
+                    <h2>{news.title}</h2>
                     <img src="/img/img.jpeg" alt="news img">
                     <h3>Text text</h3>
-                    <p>Web pages can be viewed using many different devices: desktops, tablets, and phones. Your web page should look good, and be easy to use, regardless of the device.
-                    Web pages should not leave out information to fit smaller devices, but rather adapt its content to fit any device:</p>
+                    <p>{news.text}</p>
                 </div>
-                <div class="news-item">
-                    <h2>News 1</h2>
-                    <img src="/img/img.jpeg" alt="news img">
-                    <h3>Text text</h3>
-                    <p>Web pages can be viewed using many different devices: desktops, tablets, and phones. Your web page should look good, and be easy to use, regardless of the device.
-                        Web pages should not leave out information to fit smaller devices, but rather adapt its content to fit any device:</p>
-                </div>
-                <div class="news-item">
-                    <h2>News 1</h2>
-                    <img src="/img/img.jpeg" alt="news img">
-                    <h3>Text text</h3>
-                    <p>Web pages can be viewed using many different devices: desktops, tablets, and phones. Your web page should look good, and be easy to use, regardless of the device.
-                        Web pages should not leave out information to fit smaller devices, but rather adapt its content to fit any device:</p>
-                </div>
+                {%endfor%}
             </div>
 </div>
