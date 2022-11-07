@@ -30,3 +30,5 @@ fields:
     max: 
     labelField: 
   label: news
+pages:
+- news.md
