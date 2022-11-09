@@ -22,6 +22,7 @@
 
 .news {
     background-color: #eef0f4;
+    position: relative;
 }
 
 .news-banner {
@@ -152,6 +153,19 @@
 }  
 
 @media (min-width: 1240px) {
+
+    .news::before {
+      position: absolute;
+      content: '';
+      width: 70px;
+      height: 70px;
+      top: 60px;
+      left: 50px;
+      background-image: url('/img/logo.png');
+      background-repeat: no-repeat;
+      background-size: contain;
+    }
+
     .accordion {
         padding-top: 30px;
         padding-bottom: 30px;
