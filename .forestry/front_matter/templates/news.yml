@@ -25,6 +25,17 @@ fields:
     config:
       required: false
     label: text
+  - name: date
+    type: datetime
+    label: date
+    description: ''
+    config:
+      required: true
+      date_format: 
+      time_format: 
+      display_utc: false
+    default: now
+    hidden: true
   config:
     min: 
     max: 
