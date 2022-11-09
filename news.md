@@ -2,7 +2,7 @@
 layout: news
 news:
 - title: First news
-  image: "/uploads/shouldmykidbeplayingup.jpeg"
+  image: "/uploads/kids-hockey.webp"
   text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
     when an unknown printer took a galley of type and scrambled it to make a type
@@ -22,7 +22,7 @@ news:
     and more recently with desktop publishing software like Aldus PageMaker including
     versions of Lorem Ipsum
 - title: Third
-  image: "/uploads/shouldmykidbeplayingup.jpeg"
+  image: "/uploads/istockphoto-1074231360-612x612.jpeg"
   text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
     when an unknown printer took a galley of type and scrambled it to make a type
