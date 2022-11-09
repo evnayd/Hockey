@@ -100,13 +100,13 @@
 }
 
 @media (min-width: 720px) {
-    #index {
+    /*#index {
         background-image: url("/img/tape.png");
         background-repeat: no-repeat;
         background-position: 40% 0%;
         position: relative;
         height: 100vh;
-    }
+    }*/
     
     .news-container {
         display: flex;
