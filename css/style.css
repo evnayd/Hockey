@@ -1,9 +1,9 @@
 .index {
-    background-image: url("/img/tape.png");
+    /*background-image: url("/img/tape.png");
     background-repeat: no-repeat;
     background-position: 50% 0%;
     position: relative;
-    height: 100vh;
+    height: 100vh;*/
 }
 
 .index-container {
@@ -11,12 +11,22 @@
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
+    padding: 10px;
+}
+
+.index-link {
+    margin-top: 15px;
+    display: block;
+    padding-bottom: 3px;
+    background-image: url('/img/chevron-right.svg');
+    background-repeat: no-repeat;
+    background-position: 90% 50%;
 }
 
 .big-words {
     color: #DB2A27;
-    font-size: 70px;
-    line-height: 75px;
+    font-size: 60px;
+    line-height: 65px;
    
 }
 
@@ -105,20 +115,27 @@
 }
 
 @media (min-width: 720px) {
-    /*#index {
-        background-image: url("/img/tape.png");
-        background-repeat: no-repeat;
-        background-position: 40% 0%;
-        position: relative;
-        height: 100vh;
-    }*/
+    .index-container {
+        display: flex;
+        justify-content: space-between;
+        height: 700px;
+        align-items: center;
+    }
+
+
+    .index-words {
+        width: 70%;
+    }
     
     .news-container {
         display: flex;
         justify-content: space-around;
         padding: 50px;
         flex-wrap: wrap;
+        
     }
+
+
 
     .news-item {
         display: flex;
